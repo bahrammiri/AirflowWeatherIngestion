@@ -2760,3 +2760,1111 @@ File Path                                                                      P
 ================================================================================
 [2025-03-17 14:44:55,935] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
 [2025-03-17 14:44:55,951] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:39:55.951341+00:00
+[2025-03-17 14:45:08,455] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:45:08,456] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:40:08.456783+00:00
+[2025-03-17 14:45:22,089] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:45:22,090] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:40:22.090249+00:00
+[2025-03-17 14:45:27,347] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.86s           2025-03-17T13:45:27
+================================================================================
+[2025-03-17 14:45:34,616] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:45:34,617] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:40:34.617278+00:00
+[2025-03-17 14:45:45,958] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:45:45,959] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:40:45.959435+00:00
+[2025-03-17 14:45:57,906] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:45:57,908] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:40:57.908122+00:00
+[2025-03-17 14:45:59,968] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.05s           2025-03-17T13:45:59
+================================================================================
+[2025-03-17 14:46:09,665] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:46:09,666] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:41:09.666800+00:00
+[2025-03-17 14:46:21,079] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:46:21,080] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:41:21.080272+00:00
+[2025-03-17 14:46:32,784] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.00s           2025-03-17T13:46:32
+================================================================================
+[2025-03-17 14:46:33,821] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:46:33,822] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:41:33.822066+00:00
+[2025-03-17 14:46:46,377] {manager.py:653} INFO - Searching for files in /Users/yellow/Desktop/data_engineering/airflow_weather_01/dags
+[2025-03-17 14:46:46,383] {manager.py:656} INFO - There are 1 files in /Users/yellow/Desktop/data_engineering/airflow_weather_01/dags
+[2025-03-17 14:46:46,398] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:46:46,398] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:41:46.398903+00:00
+[2025-03-17 14:46:56,495] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:46:56,496] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:41:56.496364+00:00
+[2025-03-17 14:47:05,072] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.96s           2025-03-17T13:47:05
+================================================================================
+[2025-03-17 14:47:09,221] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:47:09,222] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:42:09.222961+00:00
+[2025-03-17 14:47:21,354] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:47:21,356] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:42:21.356411+00:00
+[2025-03-17 14:47:31,446] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:47:31,446] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:42:31.446976+00:00
+[2025-03-17 14:47:36,711] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.96s           2025-03-17T13:47:36
+================================================================================
+[2025-03-17 14:47:44,080] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:47:44,082] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:42:44.082183+00:00
+[2025-03-17 14:47:56,807] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:47:56,809] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:42:56.809118+00:00
+[2025-03-17 14:48:08,476] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.85s           2025-03-17T13:48:08
+================================================================================
+[2025-03-17 14:48:09,511] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:48:09,511] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:43:09.511758+00:00
+[2025-03-17 14:48:20,623] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:48:20,624] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:43:20.624316+00:00
+[2025-03-17 14:48:32,979] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:48:32,980] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:43:32.980833+00:00
+[2025-03-17 14:48:41,623] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.26s           2025-03-17T13:48:41
+================================================================================
+[2025-03-17 14:48:45,899] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:48:45,900] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:43:45.899975+00:00
+[2025-03-17 14:48:58,561] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:48:58,563] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:43:58.562974+00:00
+[2025-03-17 14:49:10,693] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:49:10,694] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:44:10.694872+00:00
+[2025-03-17 14:49:12,661] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.95s           2025-03-17T13:49:12
+================================================================================
+[2025-03-17 14:49:22,476] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:49:22,478] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:44:22.477976+00:00
+[2025-03-17 14:49:35,122] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:49:35,123] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:44:35.123184+00:00
+[2025-03-17 14:49:43,578] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.19s           2025-03-17T13:49:43
+================================================================================
+[2025-03-17 14:49:47,589] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:49:47,590] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:44:47.590195+00:00
+[2025-03-17 14:49:58,235] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:49:58,237] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:44:58.237197+00:00
+[2025-03-17 14:50:09,862] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:50:09,863] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:45:09.863768+00:00
+[2025-03-17 14:50:14,280] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.04s           2025-03-17T13:50:14
+================================================================================
+[2025-03-17 14:50:21,684] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:50:21,699] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:45:21.699016+00:00
+[2025-03-17 14:50:31,945] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:50:31,946] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:45:31.946750+00:00
+[2025-03-17 14:50:44,745] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:50:44,746] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:45:44.746450+00:00
+[2025-03-17 14:50:46,671] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.91s           2025-03-17T13:50:46
+================================================================================
+[2025-03-17 14:50:56,861] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:50:56,865] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:45:56.865652+00:00
+[2025-03-17 14:51:09,240] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:51:09,247] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:46:09.247587+00:00
+[2025-03-17 14:51:18,084] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.19s           2025-03-17T13:51:18
+================================================================================
+[2025-03-17 14:51:22,549] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:51:22,550] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:46:22.550777+00:00
+[2025-03-17 14:51:34,919] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:51:34,920] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:46:34.920677+00:00
+[2025-03-17 14:51:44,958] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:51:44,959] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:46:44.959444+00:00
+[2025-03-17 14:51:48,390] {manager.py:653} INFO - Searching for files in /Users/yellow/Desktop/data_engineering/airflow_weather_01/dags
+[2025-03-17 14:51:48,393] {manager.py:656} INFO - There are 1 files in /Users/yellow/Desktop/data_engineering/airflow_weather_01/dags
+[2025-03-17 14:51:50,670] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.26s           2025-03-17T13:51:50
+================================================================================
+[2025-03-17 14:51:58,049] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:51:58,049] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:46:58.049935+00:00
+[2025-03-17 14:52:10,803] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:52:10,804] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:47:10.804246+00:00
+[2025-03-17 14:52:22,352] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.12s           2025-03-17T13:52:22
+================================================================================
+[2025-03-17 14:52:23,408] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:52:23,409] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:47:23.409586+00:00
+[2025-03-17 14:52:35,863] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:52:35,864] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:47:35.864508+00:00
+[2025-03-17 14:52:47,798] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:52:47,799] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:47:47.799334+00:00
+[2025-03-17 14:52:52,778] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.93s           2025-03-17T13:52:52
+================================================================================
+[2025-03-17 14:53:00,133] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:53:00,134] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:48:00.134288+00:00
+[2025-03-17 14:53:12,710] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:53:12,711] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:48:12.711012+00:00
+[2025-03-17 14:53:23,162] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.80s           2025-03-17T13:53:23
+================================================================================
+[2025-03-17 14:53:23,471] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:53:23,472] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:48:23.472155+00:00
+[2025-03-17 14:53:35,632] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:53:35,633] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:48:35.633175+00:00
+[2025-03-17 14:53:48,738] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:53:48,739] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:48:48.739252+00:00
+[2025-03-17 14:53:54,240] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.39s           2025-03-17T13:53:54
+================================================================================
+[2025-03-17 14:53:58,889] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:53:58,890] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:48:58.890587+00:00
+[2025-03-17 14:54:10,835] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:54:10,836] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:49:10.836505+00:00
+[2025-03-17 14:54:21,714] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:54:21,715] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:49:21.715853+00:00
+[2025-03-17 14:54:27,112] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.24s           2025-03-17T13:54:27
+================================================================================
+[2025-03-17 14:54:35,219] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:54:35,220] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:49:35.220935+00:00
+[2025-03-17 14:54:47,098] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:54:47,100] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:49:47.100144+00:00
+[2025-03-17 14:54:58,529] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.02s           2025-03-17T13:54:58
+================================================================================
+[2025-03-17 14:54:59,567] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:54:59,568] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:49:59.568362+00:00
+[2025-03-17 14:55:09,877] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:55:09,879] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:50:09.879270+00:00
+[2025-03-17 14:55:20,332] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:55:20,334] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:50:20.334254+00:00
+[2025-03-17 14:55:31,206] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.88s           2025-03-17T13:55:31
+================================================================================
+[2025-03-17 14:55:32,242] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:55:32,243] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:50:32.243375+00:00
+[2025-03-17 14:55:44,647] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:55:44,649] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:50:44.649113+00:00
+[2025-03-17 14:55:57,405] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:55:57,406] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:50:57.406184+00:00
+[2025-03-17 14:56:02,328] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.91s           2025-03-17T13:56:02
+================================================================================
+[2025-03-17 14:56:08,133] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:56:08,134] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:51:08.134372+00:00
+[2025-03-17 14:56:19,717] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:56:19,719] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:51:19.719014+00:00
+[2025-03-17 14:56:31,405] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:56:31,405] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:51:31.405874+00:00
+[2025-03-17 14:56:33,391] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.97s           2025-03-17T13:56:33
+================================================================================
+[2025-03-17 14:56:43,462] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:56:43,463] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:51:43.463197+00:00
+[2025-03-17 14:56:49,324] {manager.py:653} INFO - Searching for files in /Users/yellow/Desktop/data_engineering/airflow_weather_01/dags
+[2025-03-17 14:56:49,327] {manager.py:656} INFO - There are 1 files in /Users/yellow/Desktop/data_engineering/airflow_weather_01/dags
+[2025-03-17 14:56:54,370] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:56:54,371] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:51:54.371706+00:00
+[2025-03-17 14:57:05,253] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.07s           2025-03-17T13:57:05
+================================================================================
+[2025-03-17 14:57:06,301] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:57:06,302] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:52:06.302470+00:00
+[2025-03-17 14:57:18,954] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:57:18,958] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:52:18.958661+00:00
+[2025-03-17 14:57:31,803] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:57:31,805] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:52:31.805209+00:00
+[2025-03-17 14:57:38,224] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.43s           2025-03-17T13:57:38
+================================================================================
+[2025-03-17 14:57:42,254] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:57:42,255] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:52:42.255254+00:00
+[2025-03-17 14:57:52,428] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:57:52,429] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:52:52.429449+00:00
+[2025-03-17 14:58:05,044] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:58:05,045] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:53:05.045702+00:00
+[2025-03-17 14:58:11,384] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.78s           2025-03-17T13:58:11
+================================================================================
+[2025-03-17 14:58:15,868] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:58:15,869] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:53:15.869634+00:00
+[2025-03-17 14:58:29,345] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:58:29,346] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:53:29.346119+00:00
+[2025-03-17 14:58:41,662] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:58:41,663] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:53:41.663632+00:00
+[2025-03-17 14:58:43,791] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.12s           2025-03-17T13:58:43
+================================================================================
+[2025-03-17 14:58:54,148] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:58:54,149] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:53:54.149443+00:00
+[2025-03-17 14:59:06,330] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:59:06,331] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:54:06.331678+00:00
+[2025-03-17 14:59:15,114] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.37s           2025-03-17T13:59:15
+================================================================================
+[2025-03-17 14:59:19,301] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:59:19,302] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:54:19.302167+00:00
+[2025-03-17 14:59:31,746] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:59:31,747] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:54:31.747407+00:00
+[2025-03-17 14:59:44,018] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:59:44,020] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:54:44.020009+00:00
+[2025-03-17 14:59:46,118] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.09s           2025-03-17T13:59:46
+================================================================================
+[2025-03-17 14:59:56,283] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 14:59:56,284] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:54:56.284175+00:00
+[2025-03-17 15:00:07,323] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:00:07,324] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:55:07.324689+00:00
+[2025-03-17 15:00:18,589] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.21s           2025-03-17T14:00:18
+================================================================================
+[2025-03-17 15:00:19,626] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:00:19,626] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:55:19.626564+00:00
+[2025-03-17 15:00:32,472] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:00:32,473] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:55:32.473387+00:00
+[2025-03-17 15:00:44,795] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:00:44,796] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:55:44.796633+00:00
+[2025-03-17 15:00:50,445] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.32s           2025-03-17T14:00:50
+================================================================================
+[2025-03-17 15:00:58,046] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:00:58,046] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:55:58.046749+00:00
+[2025-03-17 15:01:09,932] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:01:09,933] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:56:09.933281+00:00
+[2025-03-17 15:01:21,574] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.96s           2025-03-17T14:01:21
+================================================================================
+[2025-03-17 15:01:22,627] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:01:22,627] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:56:22.627896+00:00
+[2025-03-17 15:01:35,410] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:01:35,411] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:56:35.411792+00:00
+[2025-03-17 15:01:48,248] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:01:48,250] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:56:48.250582+00:00
+[2025-03-17 15:01:51,314] {manager.py:653} INFO - Searching for files in /Users/yellow/Desktop/data_engineering/airflow_weather_01/dags
+[2025-03-17 15:01:51,316] {manager.py:656} INFO - There are 1 files in /Users/yellow/Desktop/data_engineering/airflow_weather_01/dags
+[2025-03-17 15:01:53,288] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.95s           2025-03-17T14:01:53
+================================================================================
+[2025-03-17 15:02:00,483] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:02:00,484] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:57:00.484033+00:00
+[2025-03-17 15:02:12,599] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:02:12,600] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:57:12.600081+00:00
+[2025-03-17 15:02:23,719] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:02:23,720] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:57:23.720260+00:00
+[2025-03-17 15:02:25,861] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.13s           2025-03-17T14:02:25
+================================================================================
+[2025-03-17 15:02:36,482] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:02:36,483] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:57:36.483837+00:00
+[2025-03-17 15:02:49,570] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:02:49,571] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:57:49.571792+00:00
+[2025-03-17 15:02:58,390] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.25s           2025-03-17T14:02:58
+================================================================================
+[2025-03-17 15:03:02,695] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:03:02,696] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:58:02.696051+00:00
+[2025-03-17 15:03:15,602] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:03:15,603] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:58:15.603860+00:00
+[2025-03-17 15:03:28,593] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:03:28,594] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:58:28.594553+00:00
+[2025-03-17 15:03:30,784] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.18s           2025-03-17T14:03:30
+================================================================================
+[2025-03-17 15:03:41,190] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:03:41,191] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:58:41.191586+00:00
+[2025-03-17 15:03:53,563] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:03:53,567] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:58:53.567418+00:00
+[2025-03-17 15:04:01,604] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.01s           2025-03-17T14:04:01
+================================================================================
+[2025-03-17 15:04:05,818] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:04:05,819] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:59:05.819500+00:00
+[2025-03-17 15:04:18,274] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:04:18,276] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:59:18.276225+00:00
+[2025-03-17 15:04:31,015] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:04:31,016] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:59:31.016517+00:00
+[2025-03-17 15:04:32,973] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.95s           2025-03-17T14:04:32
+================================================================================
+[2025-03-17 15:04:43,934] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:04:43,935] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:59:43.935762+00:00
+[2025-03-17 15:04:54,706] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:04:54,707] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 13:59:54.707379+00:00
+[2025-03-17 15:05:04,252] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.51s           2025-03-17T14:05:04
+================================================================================
+[2025-03-17 15:05:05,299] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:05:05,299] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:00:05.299772+00:00
+[2025-03-17 15:05:15,873] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:05:15,874] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:00:15.874142+00:00
+[2025-03-17 15:05:28,410] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:05:28,411] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:00:28.411619+00:00
+[2025-03-17 15:05:36,597] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.18s           2025-03-17T14:05:36
+================================================================================
+[2025-03-17 15:05:41,376] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:05:41,376] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:00:41.376804+00:00
+[2025-03-17 15:05:52,012] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:05:52,018] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:00:52.018785+00:00
+[2025-03-17 15:06:04,137] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:06:04,138] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:01:04.138918+00:00
+[2025-03-17 15:06:08,930] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.89s           2025-03-17T14:06:08
+================================================================================
+[2025-03-17 15:06:16,078] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:06:16,079] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:01:16.079216+00:00
+[2025-03-17 15:06:28,096] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:06:28,102] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:01:28.102849+00:00
+[2025-03-17 15:06:38,985] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:06:38,986] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:01:38.986858+00:00
+[2025-03-17 15:06:40,800] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.80s           2025-03-17T14:06:40
+================================================================================
+[2025-03-17 15:06:51,723] {manager.py:653} INFO - Searching for files in /Users/yellow/Desktop/data_engineering/airflow_weather_01/dags
+[2025-03-17 15:06:51,732] {manager.py:656} INFO - There are 1 files in /Users/yellow/Desktop/data_engineering/airflow_weather_01/dags
+[2025-03-17 15:06:51,747] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:06:51,748] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:01:51.748141+00:00
+[2025-03-17 15:07:01,894] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:07:01,895] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:02:01.895640+00:00
+[2025-03-17 15:07:13,637] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.05s           2025-03-17T14:07:13
+================================================================================
+[2025-03-17 15:07:14,688] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:07:14,689] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:02:14.689215+00:00
+[2025-03-17 15:07:27,462] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:07:27,463] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:02:27.463302+00:00
+[2025-03-17 15:07:40,178] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:07:40,180] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:02:40.180123+00:00
+[2025-03-17 15:07:45,879] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.31s           2025-03-17T14:07:45
+================================================================================
+[2025-03-17 15:07:53,422] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:07:53,428] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:02:53.428858+00:00
+[2025-03-17 15:08:06,049] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:08:06,050] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:03:06.050772+00:00
+[2025-03-17 15:08:17,889] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.94s           2025-03-17T14:08:17
+================================================================================
+[2025-03-17 15:08:18,942] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:08:18,943] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:03:18.943083+00:00
+[2025-03-17 15:08:31,457] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:08:31,459] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:03:31.459446+00:00
+[2025-03-17 15:08:43,641] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:08:43,643] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:03:43.643023+00:00
+[2025-03-17 15:08:48,760] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.98s           2025-03-17T14:08:48
+================================================================================
+[2025-03-17 15:08:55,883] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:08:55,884] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:03:55.884718+00:00
+[2025-03-17 15:09:08,207] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:09:08,208] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:04:08.208684+00:00
+[2025-03-17 15:09:18,810] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:09:18,817] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:04:18.817903+00:00
+[2025-03-17 15:09:21,089] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.26s           2025-03-17T14:09:21
+================================================================================
+[2025-03-17 15:09:29,437] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:09:29,438] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:04:29.438826+00:00
+[2025-03-17 15:09:41,861] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:09:41,862] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:04:41.862719+00:00
+[2025-03-17 15:09:52,314] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.51s           2025-03-17T14:09:52
+================================================================================
+[2025-03-17 15:09:53,374] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:09:53,374] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:04:53.374416+00:00
+[2025-03-17 15:10:03,702] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:10:03,704] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:05:03.704643+00:00
+[2025-03-17 15:10:14,845] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:10:14,846] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:05:14.846322+00:00
+[2025-03-17 15:10:23,387] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.10s           2025-03-17T14:10:23
+================================================================================
+[2025-03-17 15:10:27,842] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:10:27,842] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:05:27.842805+00:00
+[2025-03-17 15:10:38,211] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:10:38,212] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:05:38.212004+00:00
+[2025-03-17 15:10:49,351] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:10:49,354] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:05:49.354732+00:00
+[2025-03-17 15:10:54,977] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.25s           2025-03-17T14:10:54
+================================================================================
+[2025-03-17 15:11:02,179] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:11:02,182] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:06:02.182862+00:00
+[2025-03-17 15:11:12,567] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:11:12,569] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:06:12.569164+00:00
+[2025-03-17 15:11:25,495] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:11:25,496] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:06:25.496929+00:00
+[2025-03-17 15:11:27,613] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.10s           2025-03-17T14:11:27
+================================================================================
+[2025-03-17 15:11:38,302] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:11:38,303] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:06:38.303555+00:00
+[2025-03-17 15:11:51,138] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:11:51,145] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:06:51.145054+00:00
+[2025-03-17 15:11:54,205] {manager.py:653} INFO - Searching for files in /Users/yellow/Desktop/data_engineering/airflow_weather_01/dags
+[2025-03-17 15:11:54,207] {manager.py:656} INFO - There are 1 files in /Users/yellow/Desktop/data_engineering/airflow_weather_01/dags
+[2025-03-17 15:11:59,367] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.17s           2025-03-17T14:11:59
+================================================================================
+[2025-03-17 15:12:03,456] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:12:03,457] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:07:03.457506+00:00
+[2025-03-17 15:12:15,859] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:12:15,861] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:07:15.861305+00:00
+[2025-03-17 15:12:27,691] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:12:27,692] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:07:27.692308+00:00
+[2025-03-17 15:12:29,526] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.82s           2025-03-17T14:12:29
+================================================================================
+[2025-03-17 15:12:38,530] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:12:38,531] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:07:38.531609+00:00
+[2025-03-17 15:12:49,662] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:12:49,663] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:07:49.663577+00:00
+[2025-03-17 15:13:00,163] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.83s           2025-03-17T14:13:00
+================================================================================
+[2025-03-17 15:13:01,198] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:13:01,198] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:08:01.198374+00:00
+[2025-03-17 15:13:12,422] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:13:12,423] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:08:12.423807+00:00
+[2025-03-17 15:13:23,480] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:13:23,482] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:08:23.482315+00:00
+[2025-03-17 15:13:31,038] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.83s           2025-03-17T14:13:31
+================================================================================
+[2025-03-17 15:13:35,012] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:13:35,014] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:08:35.014103+00:00
+[2025-03-17 15:13:46,095] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:13:46,097] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:08:46.097258+00:00
+[2025-03-17 15:13:57,199] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:13:57,200] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:08:57.200603+00:00
+[2025-03-17 15:14:01,962] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.84s           2025-03-17T14:14:01
+================================================================================
+[2025-03-17 15:14:08,815] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:14:08,816] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:09:08.816732+00:00
+[2025-03-17 15:14:19,914] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:14:19,915] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:09:19.915821+00:00
+[2025-03-17 15:14:31,047] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:14:31,056] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:09:31.056189+00:00
+[2025-03-17 15:14:32,942] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.88s           2025-03-17T14:14:32
+================================================================================
+[2025-03-17 15:14:42,740] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:14:42,741] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:09:42.741370+00:00
+[2025-03-17 15:14:53,704] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:14:53,705] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:09:53.705484+00:00
+[2025-03-17 15:15:04,233] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.82s           2025-03-17T14:15:04
+================================================================================
+[2025-03-17 15:15:04,823] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:15:04,823] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:10:04.823744+00:00
+[2025-03-17 15:15:16,452] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:15:16,453] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:10:16.453775+00:00
+[2025-03-17 15:15:27,423] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:15:27,425] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:10:27.425230+00:00
+[2025-03-17 15:15:35,165] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.85s           2025-03-17T14:15:35
+================================================================================
+[2025-03-17 15:15:38,531] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:15:38,532] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:10:38.532391+00:00
+[2025-03-17 15:15:50,065] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:15:50,066] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:10:50.066715+00:00
+[2025-03-17 15:16:01,201] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:16:01,202] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:11:01.202864+00:00
+[2025-03-17 15:16:06,093] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.78s           2025-03-17T14:16:06
+================================================================================
+[2025-03-17 15:16:12,320] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:16:12,322] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:11:12.322019+00:00
+[2025-03-17 15:16:23,865] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:16:23,866] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:11:23.866493+00:00
+[2025-03-17 15:16:35,164] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:16:35,166] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:11:35.166359+00:00
+[2025-03-17 15:16:37,146] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.97s           2025-03-17T14:16:37
+================================================================================
+[2025-03-17 15:16:46,207] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:16:46,208] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:11:46.208385+00:00
+[2025-03-17 15:16:54,213] {manager.py:653} INFO - Searching for files in /Users/yellow/Desktop/data_engineering/airflow_weather_01/dags
+[2025-03-17 15:16:54,217] {manager.py:656} INFO - There are 1 files in /Users/yellow/Desktop/data_engineering/airflow_weather_01/dags
+[2025-03-17 15:16:57,525] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:16:57,534] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:11:57.534203+00:00
+[2025-03-17 15:17:09,500] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.00s           2025-03-17T14:17:09
+================================================================================
+[2025-03-17 15:17:10,574] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:17:10,575] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:12:10.574987+00:00
+[2025-03-17 15:17:22,958] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:17:22,959] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:12:22.959616+00:00
+[2025-03-17 15:17:33,976] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:17:33,977] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:12:33.977345+00:00
+[2025-03-17 15:17:41,923] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.98s           2025-03-17T14:17:41
+================================================================================
+[2025-03-17 15:17:46,132] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:17:46,133] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:12:46.133950+00:00
+[2025-03-17 15:17:57,994] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:17:57,995] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:12:57.995753+00:00
+[2025-03-17 15:18:09,277] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:18:09,279] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:13:09.279028+00:00
+[2025-03-17 15:18:14,394] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.01s           2025-03-17T14:18:14
+================================================================================
+[2025-03-17 15:18:22,441] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:18:22,442] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:13:22.442595+00:00
+[2025-03-17 15:18:34,853] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:18:34,854] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:13:34.854770+00:00
+[2025-03-17 15:18:46,347] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.97s           2025-03-17T14:18:46
+================================================================================
+[2025-03-17 15:18:47,402] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:18:47,402] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:13:47.402851+00:00
+[2025-03-17 15:18:59,001] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:18:59,003] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:13:59.003315+00:00
+[2025-03-17 15:19:10,068] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:19:10,070] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:14:10.069985+00:00
+[2025-03-17 15:19:18,473] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.13s           2025-03-17T14:19:18
+================================================================================
+[2025-03-17 15:19:22,578] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:19:22,579] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:14:22.579438+00:00
+[2025-03-17 15:19:35,080] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:19:35,082] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:14:35.082247+00:00
+[2025-03-17 15:19:47,031] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:19:47,032] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:14:47.032913+00:00
+[2025-03-17 15:19:49,419] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.38s           2025-03-17T14:19:49
+================================================================================
+[2025-03-17 15:19:59,182] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:19:59,183] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:14:59.183771+00:00
+[2025-03-17 15:20:11,543] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:20:11,544] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:15:11.544853+00:00
+[2025-03-17 15:20:19,891] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.23s           2025-03-17T14:20:19
+================================================================================
+[2025-03-17 15:20:23,948] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:20:23,949] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:15:23.949577+00:00
+[2025-03-17 15:20:36,801] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:20:36,803] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:15:36.802980+00:00
+[2025-03-17 15:20:49,054] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:20:49,055] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:15:49.055618+00:00
+[2025-03-17 15:20:51,127] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.06s           2025-03-17T14:20:51
+================================================================================
+[2025-03-17 15:21:01,417] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:21:01,417] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:16:01.417946+00:00
+[2025-03-17 15:21:13,917] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:21:13,919] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:16:13.919719+00:00
+[2025-03-17 15:21:22,498] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.12s           2025-03-17T14:21:22
+================================================================================
+[2025-03-17 15:21:26,509] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:21:26,511] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:16:26.511157+00:00
+[2025-03-17 15:21:37,860] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:21:37,861] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:16:37.861689+00:00
+[2025-03-17 15:21:49,502] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:21:49,503] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:16:49.503838+00:00
+[2025-03-17 15:21:54,976] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.15s           2025-03-17T14:21:54
+================================================================================
+[2025-03-17 15:21:56,031] {manager.py:653} INFO - Searching for files in /Users/yellow/Desktop/data_engineering/airflow_weather_01/dags
+[2025-03-17 15:21:56,033] {manager.py:656} INFO - There are 1 files in /Users/yellow/Desktop/data_engineering/airflow_weather_01/dags
+[2025-03-17 15:22:02,161] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:22:02,162] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:17:02.162895+00:00
+[2025-03-17 15:22:14,764] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:22:14,765] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:17:14.765888+00:00
+[2025-03-17 15:22:26,263] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.07s           2025-03-17T14:22:26
+================================================================================
+[2025-03-17 15:22:27,316] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:22:27,316] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:17:27.316745+00:00
+[2025-03-17 15:22:40,207] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:22:40,208] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:17:40.208841+00:00
+[2025-03-17 15:22:52,263] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:22:52,265] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:17:52.265136+00:00
+[2025-03-17 15:22:58,912] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  3.11s           2025-03-17T14:22:58
+================================================================================
+[2025-03-17 15:23:02,996] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:23:02,997] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:18:02.997515+00:00
+[2025-03-17 15:23:15,553] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:23:15,554] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:18:15.554658+00:00
+[2025-03-17 15:23:27,983] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:23:27,985] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:18:27.985175+00:00
+[2025-03-17 15:23:30,325] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.33s           2025-03-17T14:23:30
+================================================================================
+[2025-03-17 15:23:40,980] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:23:40,981] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:18:40.981355+00:00
+[2025-03-17 15:23:51,139] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:23:51,140] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:18:51.140940+00:00
+[2025-03-17 15:24:03,295] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.21s           2025-03-17T14:24:03
+================================================================================
+[2025-03-17 15:24:04,353] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:24:04,354] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:19:04.354098+00:00
+[2025-03-17 15:24:16,883] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:24:16,885] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:19:16.885208+00:00
+[2025-03-17 15:24:29,343] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:24:29,344] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:19:29.344908+00:00
+[2025-03-17 15:24:34,966] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.48s           2025-03-17T14:24:34
+================================================================================
+[2025-03-17 15:24:42,043] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:24:42,045] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:19:42.045255+00:00
+[2025-03-17 15:24:53,922] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:24:53,923] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:19:53.923500+00:00
+[2025-03-17 15:25:05,408] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.13s           2025-03-17T14:25:05
+================================================================================
+[2025-03-17 15:25:06,466] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:25:06,467] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:20:06.467195+00:00
+[2025-03-17 15:25:18,801] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:25:18,803] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:20:18.803098+00:00
+[2025-03-17 15:25:31,146] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:25:31,147] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:20:31.147863+00:00
+[2025-03-17 15:25:36,772] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.47s           2025-03-17T14:25:36
+================================================================================
+[2025-03-17 15:25:43,787] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:25:43,788] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:20:43.788127+00:00
+[2025-03-17 15:25:57,171] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:25:57,173] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:20:57.173184+00:00
+[2025-03-17 15:26:08,078] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.96s           2025-03-17T14:26:08
+================================================================================
+[2025-03-17 15:26:09,135] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:26:09,136] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:21:09.136138+00:00
+[2025-03-17 15:26:20,116] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:26:20,117] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:21:20.117668+00:00
+[2025-03-17 15:26:31,641] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:26:31,643] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:21:31.643085+00:00
+[2025-03-17 15:26:38,965] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.95s           2025-03-17T14:26:38
+================================================================================
+[2025-03-17 15:26:43,019] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:26:43,020] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:21:43.020756+00:00
+[2025-03-17 15:26:53,996] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:26:53,997] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:21:53.997557+00:00
+[2025-03-17 15:26:56,448] {manager.py:653} INFO - Searching for files in /Users/yellow/Desktop/data_engineering/airflow_weather_01/dags
+[2025-03-17 15:26:56,451] {manager.py:656} INFO - There are 1 files in /Users/yellow/Desktop/data_engineering/airflow_weather_01/dags
+[2025-03-17 15:27:04,372] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:27:04,374] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:22:04.374074+00:00
+[2025-03-17 15:27:10,859] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           0           1  1.52s           2025-03-17T14:27:10
+================================================================================
+[2025-03-17 15:27:15,912] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:27:15,913] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:22:15.913321+00:00
+[2025-03-17 15:27:28,681] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:27:28,682] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:22:28.682748+00:00
+[2025-03-17 15:27:41,660] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:27:41,666] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:22:41.666732+00:00
+[2025-03-17 15:27:43,858] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  2.18s           2025-03-17T14:27:43
+================================================================================
+[2025-03-17 15:27:54,116] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:27:54,117] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:22:54.117609+00:00
+[2025-03-17 15:28:05,866] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:28:05,867] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:23:05.867629+00:00
+[2025-03-17 15:28:14,302] {manager.py:774} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py                           1           0  1.94s           2025-03-17T14:28:14
+================================================================================
+[2025-03-17 15:28:18,268] {manager.py:1051} INFO - Finding 'running' jobs without a recent heartbeat
+[2025-03-17 15:28:18,270] {manager.py:1055} INFO - Failing jobs without heartbeat after 2025-03-17 14:23:18.270055+00:00
