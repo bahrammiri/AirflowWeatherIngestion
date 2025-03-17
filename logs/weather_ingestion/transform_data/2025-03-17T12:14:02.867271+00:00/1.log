@@ -1,0 +1,28 @@
+[2025-03-17 13:15:05,254] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: weather_ingestion.transform_data scheduled__2025-03-17T12:14:02.867271+00:00 [queued]>
+[2025-03-17 13:15:05,262] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: weather_ingestion.transform_data scheduled__2025-03-17T12:14:02.867271+00:00 [queued]>
+[2025-03-17 13:15:05,262] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2025-03-17 13:15:05,262] {taskinstance.py:1242} INFO - Starting attempt 1 of 2
+[2025-03-17 13:15:05,263] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2025-03-17 13:15:05,274] {taskinstance.py:1262} INFO - Executing <Task(PythonOperator): transform_data> on 2025-03-17 12:14:02.867271+00:00
+[2025-03-17 13:15:05,277] {standard_task_runner.py:52} INFO - Started process 32252 to run task
+[2025-03-17 13:15:05,286] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'weather_ingestion', 'transform_data', 'scheduled__2025-03-17T12:14:02.867271+00:00', '--job-id', '43', '--raw', '--subdir', '/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py', '--cfg-path', '/var/folders/7m/b2x3pxpj4h398t57k9hlv4gm0000gn/T/tmp2i469tvd', '--error-file', '/var/folders/7m/b2x3pxpj4h398t57k9hlv4gm0000gn/T/tmplt9_9_y_']
+[2025-03-17 13:15:05,288] {standard_task_runner.py:77} INFO - Job 43: Subtask transform_data
+[2025-03-17 13:15:05,334] {logging_mixin.py:109} INFO - Running <TaskInstance: weather_ingestion.transform_data scheduled__2025-03-17T12:14:02.867271+00:00 [running]> on host 147.0.168.192.in-addr.arpa
+[2025-03-17 13:15:05,372] {taskinstance.py:1427} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=weather_ingestion
+AIRFLOW_CTX_TASK_ID=transform_data
+AIRFLOW_CTX_EXECUTION_DATE=2025-03-17T12:14:02.867271+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2025-03-17T12:14:02.867271+00:00
+[2025-03-17 13:15:06,257] {logging_mixin.py:109} INFO -        city    temp  feels_like  temp_min  temp_max  pressure  humidity  sea_level  grnd_level
+0    Tehran  296.88      295.54    296.88    297.14      1013         9       1013         863
+1    London  280.15      276.93    279.57    281.55      1028        68       1028        1024
+2  New York  285.66      285.45    284.24    286.94      1009        95       1009        1007
+3     Tokyo  281.08      276.22    279.63    281.94      1009        40       1009        1007
+4    Sydney  291.47      290.98    288.57    292.24      1024        62       1024        1018
+[2025-03-17 13:15:06,258] {python.py:152} INFO - Done. Returned value was: None
+[2025-03-17 13:15:06,265] {taskinstance.py:1270} INFO - Marking task as SUCCESS. dag_id=weather_ingestion, task_id=transform_data, execution_date=20250317T121402, start_date=20250317T121505, end_date=20250317T121506
+[2025-03-17 13:15:06,281] {local_task_job.py:154} INFO - Task exited with return code 0
+[2025-03-17 13:15:06,302] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

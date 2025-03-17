@@ -1,0 +1,25 @@
+[2025-03-17 13:56:30,150] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: weather_ingestion.load_data scheduled__2025-03-17T12:55:22.951281+00:00 [queued]>
+[2025-03-17 13:56:30,157] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: weather_ingestion.load_data scheduled__2025-03-17T12:55:22.951281+00:00 [queued]>
+[2025-03-17 13:56:30,157] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2025-03-17 13:56:30,157] {taskinstance.py:1242} INFO - Starting attempt 1 of 2
+[2025-03-17 13:56:30,157] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2025-03-17 13:56:30,170] {taskinstance.py:1262} INFO - Executing <Task(PythonOperator): load_data> on 2025-03-17 12:55:22.951281+00:00
+[2025-03-17 13:56:30,174] {standard_task_runner.py:52} INFO - Started process 47230 to run task
+[2025-03-17 13:56:30,181] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'weather_ingestion', 'load_data', 'scheduled__2025-03-17T12:55:22.951281+00:00', '--job-id', '118', '--raw', '--subdir', '/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py', '--cfg-path', '/var/folders/7m/b2x3pxpj4h398t57k9hlv4gm0000gn/T/tmpe8g80c64', '--error-file', '/var/folders/7m/b2x3pxpj4h398t57k9hlv4gm0000gn/T/tmpfoslyljb']
+[2025-03-17 13:56:30,183] {standard_task_runner.py:77} INFO - Job 118: Subtask load_data
+[2025-03-17 13:56:30,220] {logging_mixin.py:109} INFO - Running <TaskInstance: weather_ingestion.load_data scheduled__2025-03-17T12:55:22.951281+00:00 [running]> on host 147.0.168.192.in-addr.arpa
+[2025-03-17 13:56:30,259] {taskinstance.py:1427} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=weather_ingestion
+AIRFLOW_CTX_TASK_ID=load_data
+AIRFLOW_CTX_EXECUTION_DATE=2025-03-17T12:55:22.951281+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2025-03-17T12:55:22.951281+00:00
+[2025-03-17 13:56:30,310] {__init__.py:149} INFO - package: mysql.connector.plugins
+[2025-03-17 13:56:30,311] {__init__.py:150} INFO - plugin_name: caching_sha2_password
+[2025-03-17 13:56:30,311] {__init__.py:154} INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+[2025-03-17 13:56:30,324] {python.py:152} INFO - Done. Returned value was: None
+[2025-03-17 13:56:30,330] {taskinstance.py:1270} INFO - Marking task as SUCCESS. dag_id=weather_ingestion, task_id=load_data, execution_date=20250317T125522, start_date=20250317T125630, end_date=20250317T125630
+[2025-03-17 13:56:30,361] {local_task_job.py:154} INFO - Task exited with return code 0
+[2025-03-17 13:56:30,379] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check
