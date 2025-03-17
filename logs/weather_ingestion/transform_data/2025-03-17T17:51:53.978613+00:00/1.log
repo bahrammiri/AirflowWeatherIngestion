@@ -1,0 +1,22 @@
+[2025-03-17 18:52:57,069] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: weather_ingestion.transform_data scheduled__2025-03-17T17:51:53.978613+00:00 [queued]>
+[2025-03-17 18:52:57,078] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: weather_ingestion.transform_data scheduled__2025-03-17T17:51:53.978613+00:00 [queued]>
+[2025-03-17 18:52:57,078] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2025-03-17 18:52:57,078] {taskinstance.py:1242} INFO - Starting attempt 1 of 2
+[2025-03-17 18:52:57,078] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2025-03-17 18:52:57,087] {taskinstance.py:1262} INFO - Executing <Task(PythonOperator): transform_data> on 2025-03-17 17:51:53.978613+00:00
+[2025-03-17 18:52:57,091] {standard_task_runner.py:52} INFO - Started process 74548 to run task
+[2025-03-17 18:52:57,097] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'weather_ingestion', 'transform_data', 'scheduled__2025-03-17T17:51:53.978613+00:00', '--job-id', '144', '--raw', '--subdir', '/Users/yellow/Desktop/data_engineering/airflow_weather_01/dags/dag_weather.py', '--cfg-path', '/var/folders/7m/b2x3pxpj4h398t57k9hlv4gm0000gn/T/tmp5ptc55np', '--error-file', '/var/folders/7m/b2x3pxpj4h398t57k9hlv4gm0000gn/T/tmpr941q0yt']
+[2025-03-17 18:52:57,099] {standard_task_runner.py:77} INFO - Job 144: Subtask transform_data
+[2025-03-17 18:52:57,138] {logging_mixin.py:109} INFO - Running <TaskInstance: weather_ingestion.transform_data scheduled__2025-03-17T17:51:53.978613+00:00 [running]> on host 147.0.168.192.in-addr.arpa
+[2025-03-17 18:52:57,176] {taskinstance.py:1427} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=weather_ingestion
+AIRFLOW_CTX_TASK_ID=transform_data
+AIRFLOW_CTX_EXECUTION_DATE=2025-03-17T17:51:53.978613+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2025-03-17T17:51:53.978613+00:00
+[2025-03-17 18:52:58,050] {python.py:152} INFO - Done. Returned value was: None
+[2025-03-17 18:52:58,058] {taskinstance.py:1270} INFO - Marking task as SUCCESS. dag_id=weather_ingestion, task_id=transform_data, execution_date=20250317T175153, start_date=20250317T175257, end_date=20250317T175258
+[2025-03-17 18:52:58,118] {local_task_job.py:154} INFO - Task exited with return code 0
+[2025-03-17 18:52:58,145] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

@@ -29,7 +29,7 @@ ingestion_dag = DAG(
 
 
 key = '7ac290a1f34eec96e26d09d25b47423b'
-cities = ['Tehran', 'London', 'New York', 'Tokyo', 'Sydney']
+cities = ['Stockholm', 'London', 'New York', 'Tokyo', 'Sydney']
 
 def transform_data():
     def fetch_weather_data(city):
@@ -41,10 +41,10 @@ def transform_data():
     for city in cities:
         data = fetch_weather_data(city)
         city_weather = {'city': city}
-        city_weather.update(data['main'])  # Extract main weather data
+        city_weather.update(data['main']) 
         cities_responses.append(city_weather)
 
-    # Save to CSV for inspection (optional)
+   
     df = pd.DataFrame(cities_responses)
     df.to_csv('/Users/yellow/Desktop/data_engineering/airflow_weather_01/weather_data.csv', index=False)  
 
@@ -57,10 +57,10 @@ task_1 = PythonOperator(
 
 
 def load_data():
-    # Load data from CSV
+
     df = pd.read_csv('/Users/yellow/Desktop/data_engineering/airflow_weather_01/weather_data.csv')
 
-    # Database connection
+
     connection = mysql.connector.connect(
         host='localhost',
         user='root',
@@ -69,7 +69,7 @@ def load_data():
     )
     cursor = connection.cursor()
 
-    # Create table if not exists
+ 
     create_table_query = """
     CREATE TABLE IF NOT EXISTS weather_data_bahram(
         city VARCHAR(100),
@@ -85,7 +85,7 @@ def load_data():
     """
     cursor.execute(create_table_query)
 
-    # Insert data into table
+
     for _, row in df.iterrows():
         cursor.execute("""
             INSERT INTO weather_data_bahram (city, temp, feels_like, temp_min, temp_max, pressure, humidity, sea_level, grnd_level)
@@ -102,6 +102,6 @@ task_2 = PythonOperator(
     dag=ingestion_dag,
 )
 
-# Task dependencies
+
 task_1 >> task_2
-schedule_interval=timedelta(minutes=1)  # This runs the DAG every minute
+schedule_interval=timedelta(minutes=1)  
